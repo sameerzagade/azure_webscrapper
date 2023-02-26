@@ -1,4 +1,4 @@
 Flask
 requests
 bs4
-flas_cors
+flask_cors
